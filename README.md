@@ -10,3 +10,5 @@ This is for project purpose.  A project about food recipes and what ever comes a
  3- thied recipe: Easy Chicken Alferado
  This chicken Alfredo recipe with jar sauce is a quick and easy dinner for those hectic nights. For extra flavor, cook the chicken with lemon pepper and seasoning salt.
 
+* I'm going to do styling using css language.
+This website has been rather blain, i'm going to make some decoration.
